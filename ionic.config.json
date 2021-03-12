@@ -1,0 +1,7 @@
+{
+  "name": "test-toggle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
